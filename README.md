@@ -5,6 +5,7 @@ My first game that I've built
 - 2-D combat
 - Animations
 - Challenging enemy waves
+- Awesome Sound Track
 
 ## How to play
 1. Visit my Itch.io page to download and play the game.
